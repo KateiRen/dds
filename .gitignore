@@ -16,3 +16,16 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+
+# Local bundler and Ruby environment files
+.bundle/
+
+# Editor settings (workspace-local)
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Local logs
+*.log
