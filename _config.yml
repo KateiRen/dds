@@ -1,13 +1,13 @@
 title: Datadriven Solutions Hartlieb
-name: Datadriven Solutions Hartlieb
+name: Karsten Hartlieb
 email: hello@example.com
-url: https://dds-hartlieb.github.io
+url: https://kateiren.github.io/dds
 description: Small business website project hosted with GitHub Pages.
-locale: en-US
+locale: de-DE
 repository: kateiren/dds
 
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: sunrise
+minimal_mistakes_skin: dark
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
@@ -33,7 +33,7 @@ footer: Datadriven Solutions Hartlieb
 # Social links used by the theme
 social:
   - title: github
-    url: https://github.com/kateiren/dds
+    url: https://github.com/kateiren
 
 markdown: kramdown
 permalink: pretty
