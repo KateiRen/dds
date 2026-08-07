@@ -1,0 +1,27 @@
+---
+---
+
+$primary-color: #d66b35;
+$link-color: #8c3d1f;
+$masthead-link-color: #2a1b14;
+$footer-background-color: #2a1b14;
+$footer-color: #f5eee9;
+
+@import "minimal-mistakes";
+
+.page__hero--overlay {
+  min-height: 65vh;
+}
+
+.page__hero--overlay .page__lead {
+  max-width: 44rem;
+  font-size: 1.12rem;
+}
+
+.btn--primary {
+  background-color: #d66b35;
+}
+
+.btn--primary:hover {
+  background-color: #b95624;
+}

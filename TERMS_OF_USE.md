@@ -1,3 +1,10 @@
+---
+title: "Terms of Use"
+permalink: /terms/
+layout: single
+toc: true
+---
+
 # Terms of Use
 
 Effective date: August 7, 2026
