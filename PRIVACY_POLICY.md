@@ -1,85 +1,40 @@
 ---
-title: "Privacy Policy"
+title: "Datenschutzerklärung"
 permalink: /privacy/
 layout: single
 toc: true
 ---
 
-# Privacy Policy
+# Datenschutzerklärung
 
-Effective date: August 7, 2026
+## Hosting
+Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
 
-Karsten Hartlieb ("we", "our", or "us") operates this website and is committed to protecting your privacy.
+IP-Adresse, die Adresse der vorher besuchten Website (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, Inhalt der Anforderung, HTTP-Statuscode, übertragene Datenmenge, Website, von der die Anforderung kommt und Informationen zu Browser und Betriebssystem.
 
-## Information We Collect
+Das ist erforderlich, um unsere Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO.
 
-We may collect the following types of information:
+Es erfolgt kein Tracking und wir haben auf diese Daten keinen direkten Zugriff.
 
-- Information you provide directly, such as your name, email address, phone number, or message content when you contact us.
-- Basic technical information automatically collected by your browser or hosting platform, such as IP address, browser type, device type, referring pages, and access times.
+Wir setzen für die Zurverfügungstellung unserer Website folgenden Hoster ein:
 
-## How We Use Information
+GitHub Inc.
+88 Colin P Kelly Jr St
+San Francisco, CA 94107
+United States
 
-We use information to:
+Dieser ist Empfänger Ihrer personenbezogenen Daten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO, selbst keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist USA.
 
-- Respond to inquiries and provide requested services.
-- Operate, maintain, and improve our website.
-- Protect the security and integrity of our website.
-- Comply with legal obligations.
+Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages
 
-## Cookies and Similar Technologies
+Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln.
 
-This website may use cookies or similar technologies for basic functionality, analytics, and performance.
+Die Daten werden gelöscht, sobald der Zweck der Verarbeitung entfällt.
 
-You can control cookies through your browser settings. Disabling cookies may affect how the site works.
+Die Verarbeitung der unter diesem Abschnitt angegebenen Daten ist weder gesetzlich noch vertraglich vorgeschrieben. Die Funktionsfähigkeit der Website ist ohne die Verarbeitung nicht gewährleistet.
 
-## Analytics and Third-Party Services
+GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen GitHub personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere Informationen finden Sie unter: https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors
 
-We may use third-party services (for example, website analytics, embedded maps, or form providers) that process data according to their own privacy policies.
+## Rechtliche Hinweise
+Grundsätzlich ist ein Auftragsverarbeitungsvertrag mit dem Hoster abzuschließen. Das bayerische Landesamt für Datenschutzaufsicht hat für das Hosting rein statischer Websites eine Ausnahme gemacht. Für den Fall, dass die Webseite der Selbstdarstellung dient, z.B. von Vereinen oder Kleinunternehmen, keine personenbezogenen Daten an den Betreiber fließen und kein Tracking stattfindet, liegt keine Auftragsverarbeitung vor. Weiter heißt es: „Die Tatsache, dass auch beim Hosting von statischen Webseiten zwangsläufig IP-Adressen, d.h. personenbezogene Daten, verarbeitet werden müssen, führt nicht zur Annahme einer Auftragsverarbeitung. Das wäre nicht sachgerecht. Die (kurzfristige) IP-Adressenspeicherung ist vielmehr noch der TK-Zugangsvermittlung des Website-Hosters nach dem TKG zuzurechnen und dient in erster Linie Sicherheitszwecken des Hosters.“ (https://www.lda.bayern.de/media/veroeffentlichungen/FAQ_Hosting_keine_Auftragsverarbeitung.pdf) Wir gehen davon aus, dass diese Ausnahme auf GitHub Pages anzuwenden ist.
 
-If you use this website, those third parties may receive technical information such as your IP address and browser metadata.
-
-## Sharing of Information
-
-We do not sell your personal information.
-
-We may share information only when necessary to:
-
-- Provide services you request.
-- Work with service providers who assist in operating this website.
-- Comply with legal requirements or protect rights and safety.
-
-## Data Retention
-
-We retain personal information only as long as necessary for the purposes described in this policy, unless a longer retention period is required by law.
-
-## Data Security
-
-We use reasonable administrative, technical, and organizational measures to protect personal information. No method of transmission or storage is completely secure.
-
-## Your Rights
-
-Depending on your location, you may have rights regarding your personal information, such as access, correction, deletion, or objection to processing.
-
-To exercise these rights, contact us using the details below.
-
-## Children's Privacy
-
-This website is not directed to children under 13, and we do not knowingly collect personal information from children.
-
-## International Visitors
-
-If you access this site from outside [your country], your information may be processed in countries with different data protection laws.
-
-## Changes to This Privacy Policy
-
-We may update this policy from time to time. The updated version will be posted on this page with a revised effective date.
-
-## Contact
-
-If you have questions about this Privacy Policy or your personal information, contact:
-
-- Name: Karsten Hartlieb
-- Email: [your email address]
-- Business Address: [your business address, optional]
-- Phone: [your phone number, optional]
