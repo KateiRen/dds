@@ -19,7 +19,7 @@ E-Mail: dds@hartlieb-web.de
 # Redaktionell verantwortlich
 Karsten Hartlieb
 
-# Verbraucherstreitbeilegung/Universalschlichtungsstelle
+# Verbraucherstreitbeilegung / Universalschlichtungsstelle
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 Quelle:
