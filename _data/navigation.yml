@@ -1,6 +1,4 @@
 main:
-  - title: "Startseite"
-    url: /
   - title: "Über mich"
     url: /about/
   - title: "Leistungen"
