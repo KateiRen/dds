@@ -1,17 +1,17 @@
 ---
-title: "About"
+title: "Über uns"
 permalink: /about/
 layout: single
 ---
 
-Datadriven Solutions Hartlieb helps teams make better decisions with clear, practical analytics.
+Datadriven Solutions Hartlieb hilft Teams, bessere Entscheidungen mit klarer, praxisnaher Analytik zu treffen.
 
-## What We Do
+## Was wir tun
 
-- Turn scattered data into concise reporting.
-- Build lightweight dashboards and decision support.
-- Improve planning with measurable outcomes.
+- Verarbeiten verstreute Daten zu prägnanten Auswertungen.
+- Erstellen leichtgewichtige Dashboards und Entscheidungshilfen.
+- Verbessern die Planung mit messbaren Ergebnissen.
 
-## How We Work
+## So arbeiten wir
 
-We focus on practical outcomes: identify the key business question, validate data quality, then deliver recommendations your team can implement quickly.
+Wir konzentrieren uns auf praktische Ergebnisse: Wir ermitteln die wichtigste Geschäftsfrage, prüfen die Datenqualität und liefern anschließend Empfehlungen, die Ihr Team schnell umsetzen kann.

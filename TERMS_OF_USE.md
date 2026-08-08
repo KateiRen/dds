@@ -1,70 +1,70 @@
 ---
-title: "Terms of Use"
+title: "Nutzungsbedingungen"
 permalink: /terms/
 layout: single
 toc: true
 ---
 
-# Terms of Use
+# Nutzungsbedingungen
 
-Effective date: August 7, 2026
+Gültig ab: 7. August 2026
 
-These Terms of Use ("Terms") govern your access to and use of this website operated by Karsten Hartlieb ("we", "our", or "us"). By using this website, you agree to these Terms.
+Diese Nutzungsbedingungen ("Nutzungsbedingungen") regeln Ihren Zugang zu dieser Website und Ihre Nutzung dieser Website, die von Karsten Hartlieb betrieben wird ("wir", "uns" oder "unser"). Durch die Nutzung dieser Website stimmen Sie diesen Nutzungsbedingungen zu.
 
-## Use of Website
+## Nutzung der Website
 
-You may use this website for lawful, personal, and non-commercial informational purposes only.
+Sie dürfen diese Website nur für rechtmäßige, persönliche und nicht-kommerzielle Informationszwecke nutzen.
 
-You agree not to:
+Sie verpflichten sich, Folgendes zu unterlassen:
 
-- Violate any applicable laws or regulations.
-- Attempt to gain unauthorized access to this website or related systems.
-- Interfere with the operation or security of this website.
-- Use this website in a way that could damage, disable, or impair functionality.
+- Gegen geltende Gesetze oder Vorschriften zu verstoßen.
+- Unbefugten Zugriff auf diese Website oder verwandte Systeme zu versuchen.
+- Die Funktion oder Sicherheit dieser Website zu beeinträchtigen.
+- Diese Website so zu nutzen, dass sie beschädigt, deaktiviert oder in ihrer Funktion beeinträchtigt werden könnte.
 
-## Intellectual Property
+## Geistiges Eigentum
 
-All content on this website, including text, graphics, logos, images, design elements, and code, is owned by or licensed to Karsten Hartlieb and is protected by applicable intellectual property laws.
+Der gesamte Inhalt dieser Website, einschließlich Texte, Grafiken, Logos, Bilder, Designelemente und Code, ist Eigentum von Karsten Hartlieb oder wird von ihm lizenziert und ist durch geltende Gesetze zum Schutz des geistigen Eigentums geschützt.
 
-All rights are reserved. No content may be copied, reproduced, modified, republished, uploaded, posted, transmitted, distributed, sold, licensed, or used to create derivative works without prior written permission.
+Alle Rechte sind vorbehalten. Kein Inhalt darf ohne vorherige schriftliche Genehmigung kopiert, reproduziert, verändert, erneut veröffentlicht, hochgeladen, veröffentlicht, übermittelt, verteilt, verkauft, lizenziert oder zur Erstellung abgeleiteter Werke verwendet werden.
 
-## Business Information Disclaimer
+## Haftungsausschluss für geschäftliche Informationen
 
-Information on this website is provided for general informational purposes and does not constitute professional, legal, financial, or other advice unless explicitly stated.
+Die Informationen auf dieser Website dienen nur zu allgemeinen Informationszwecken und stellen keine professionelle, juristische, finanzielle oder andere Beratung dar, sofern nicht ausdrücklich anders angegeben.
 
-## Third-Party Links
+## Links zu Drittanbietern
 
-This website may include links to third-party websites. We do not control and are not responsible for the content, policies, or practices of third-party websites.
+Diese Website kann Links zu Websites von Drittanbietern enthalten. Wir kontrollieren diese Websites nicht und sind nicht verantwortlich für deren Inhalte, Richtlinien oder Praktiken.
 
-## No Warranties
+## Keine Gewährleistungen
 
-This website is provided "as is" and "as available" without warranties of any kind, express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+Diese Website wird "wie besehen" und "wie verfügbar" bereitgestellt, ohne Gewährleistungen jeglicher Art, ausdrücklich oder stillschweigend, einschließlich, aber nicht beschränkt auf stillschweigende Gewährleistungen der Marktgängigkeit, Eignung für einen bestimmten Zweck und Nichtverletzung.
 
-## Limitation of Liability
+## Haftungsbeschränkung
 
-To the fullest extent permitted by law, Karsten Hartlieb is not liable for any indirect, incidental, consequential, special, or punitive damages, or any loss of profits, data, goodwill, or business opportunities arising out of or related to your use of this website.
+Soweit gesetzlich zulässig, haftet Karsten Hartlieb nicht für indirekte, zufällige, Folge-, Spezial- oder Strafschäden oder für Verluste von Gewinnen, Daten, Goodwill oder Geschäftschancen, die sich aus Ihrer Nutzung dieser Website ergeben oder damit zusammenhängen.
 
-## Indemnification
+## Freistellung
 
-You agree to indemnify and hold harmless Karsten Hartlieb from and against any claims, liabilities, damages, losses, and expenses arising out of your misuse of this website or violation of these Terms.
+Sie erklären sich damit einverstanden, Karsten Hartlieb von und gegen Ansprüche, Verbindlichkeiten, Schäden, Verluste und Aufwendungen freizustellen, die sich aus Ihrer missbräuchlichen Nutzung dieser Website oder der Verletzung dieser Nutzungsbedingungen ergeben.
 
-## Privacy
+## Datenschutz
 
-Your use of this website is also governed by our Privacy Policy.
+Ihre Nutzung dieser Website unterliegt außerdem unserer Datenschutzrichtlinie.
 
-## Changes to Terms
+## Änderungen der Nutzungsbedingungen
 
-We may update these Terms at any time. Updates are effective when posted on this page. Your continued use of the website after changes are posted constitutes acceptance of the revised Terms.
+Wir können diese Nutzungsbedingungen jederzeit aktualisieren. Aktualisierungen treten in Kraft, sobald sie auf dieser Seite veröffentlicht werden. Ihre fortgesetzte Nutzung der Website nach Veröffentlichung der Änderungen gilt als Annahme der überarbeiteten Nutzungsbedingungen.
 
-## Governing Law
+## Anwendbares Recht
 
-These Terms are governed by the laws of [your jurisdiction], without regard to conflict-of-law principles.
+Diese Nutzungsbedingungen unterliegen den Gesetzen von [Ihrer Gerichtsbarkeit], ohne Rücksicht auf Kollisionsnormen.
 
-## Contact
+## Kontakt
 
-For questions about these Terms, contact:
+Bei Fragen zu diesen Nutzungsbedingungen wenden Sie sich an:
 
 - Name: Karsten Hartlieb
-- Email: [your email address]
-- Business Address: [your business address, optional]
-- Phone: [your phone number, optional]
+- E-Mail: [Ihre E-Mail-Adresse]
+- Geschäftsadresse: [Ihre Geschäftsadresse, optional]
+- Telefon: [Ihre Telefonnummer, optional]

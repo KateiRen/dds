@@ -1,22 +1,22 @@
 ---
-title: "Contact"
+title: "Kontakt"
 permalink: /contact/
 layout: single
 ---
 
-Ready to improve decision quality with better analytics?
+Bereit, die Qualität von Entscheidungen mit besserer Analytik zu verbessern?
 
-## Get in Touch
+## Kontakt aufnehmen
 
-- Email: [hello@example.com](mailto:hello@example.com)
+- E-Mail: [hello@example.com](mailto:hello@example.com)
 - GitHub: [github.com/kateiren/dds](https://github.com/kateiren/dds)
 
-## What to Include
+## Was Sie mitteilen sollten
 
-When you reach out, sharing the points below helps us respond quickly:
+Wenn Sie sich an uns wenden, helfen Ihnen die folgenden Punkte, schnell zu antworten:
 
-- Current reporting or analytics pain points.
-- Team size and stakeholders.
-- Desired timeline and expected outcomes.
+- Aktuelle Probleme bei Reporting oder Analytik.
+- Teamgröße und Beteiligte.
+- Gewünschter Zeitrahmen und erwartete Ergebnisse.
 
-We will follow up with suggested next steps.
+Wir werden Ihnen anschließend die nächsten Schritte vorschlagen.

@@ -1,35 +1,35 @@
 ---
-title: "Services"
+title: "Leistungen"
 permalink: /services/
 layout: single
 ---
 
-We help small and growing teams use data as a practical operating advantage.
+Wir helfen kleinen und wachsenden Teams, Daten als praktischen operativen Vorteil zu nutzen.
 
-## Core Services
+## Kernleistungen
 
-### Analytics Foundations
+### Analytische Grundlagen
 
-- Data source and metric mapping.
-- KPI definitions aligned to business decisions.
-- Reporting architecture for reliable weekly and monthly reviews.
+- Zuordnung von Datenquellen und Kennzahlen.
+- KPI-Definitionen, abgestimmt auf Geschäftsentscheidungen.
+- Reporting-Architektur für zuverlässige wöchentliche und monatliche Auswertungen.
 
-### Dashboard and Automation Delivery
+### Dashboard- und Automatisierungsumsetzung
 
-- Decision-first dashboard design.
-- Automated data refresh and quality checks.
-- Lightweight reporting workflows that reduce manual effort.
+- Dashboard-Design mit Fokus auf Entscheidungen.
+- Automatische Datenaktualisierung und Qualitätsprüfungen.
+- Leichte Reporting-Workflows, die den manuellen Aufwand reduzieren.
 
-### Advisory and Strategy
+### Beratung und Strategie
 
-- Opportunity assessment and prioritization.
-- Experiment design and measurement plans.
-- Executive-ready summaries and implementation guidance.
+- Bewertung und Priorisierung von Chancen.
+- Design von Experimenten und Messplänen.
+- Executive-taugliche Zusammenfassungen und Umsetzungsanleitungen.
 
-## Typical Outcomes
+## Typische Ergebnisse
 
-- Faster reporting cycles.
-- Better visibility into performance drivers.
-- More confident operational and planning decisions.
+- Schnellere Reporting-Zyklen.
+- Bessere Sicht auf Leistungsdriver.
+- Zuversichtlichere operative und planungsbezogene Entscheidungen.
 
-[Contact us](/contact/) to discuss your goals.
+[Kontaktieren Sie uns](/contact/), um Ihre Ziele zu besprechen.

@@ -1,15 +1,15 @@
 main:
-  - title: "Home"
+  - title: "Startseite"
     url: /
-  - title: "About"
+  - title: "Über mich"
     url: /about/
-  - title: "Services"
+  - title: "Leistungen"
     url: /services/
-  - title: "Contact"
+  - title: "Kontakt"
     url: /contact/
   - title: "Datenschutz"
     url: /privacy/
-  - title: "Terms"
+  - title: "Bedingungen"
     url: /terms/
   - title: "Impressum"
     url: /impressum/
