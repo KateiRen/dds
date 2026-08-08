@@ -7,7 +7,9 @@ main:
     url: /services/
   - title: "Contact"
     url: /contact/
-  - title: "Privacy"
+  - title: "Datenschutz"
     url: /privacy/
   - title: "Terms"
     url: /terms/
+  - title: "Impressum"
+    url: /impressum/
