@@ -5,7 +5,6 @@ layout: single
 toc: true
 ---
 
-# Impressum
 
 Karsten Hartlieb<br>
 Datadriven Solutions Hartlieb<br>
@@ -23,4 +22,4 @@ Karsten Hartlieb
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 Quelle:
-e-recht24.d
+e-recht24.de
